@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.env
+shopper-env/
+# Jupyter
+.ipynb_checkpoints
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+.cache/
+*.sqlite3
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# VSCode
+.vscode/
+# If using virtual environments or notebooks:
+pip-wheel-metadata/
