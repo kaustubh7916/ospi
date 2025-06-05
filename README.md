@@ -6,7 +6,7 @@ A machine learning-powered Streamlit app to predict whether an online shopper is
 
 ## 🔗 Repository
 
-**GitHub Repo**: [`git@github.com:pranav9989/OSPI.git`](git@github.com:pranav9989/OSPI.git)
+**GitHub Repo**: [`git@github.com:kaustubh7916/OSPI.git`](git@github.com:kaustubh7916/OSPI.git)
 
 ---
 
